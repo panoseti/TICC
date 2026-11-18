@@ -54,3 +54,9 @@ several bug fixes.  Highlights:
 
 See [docs/BUILD_AND_FLASH.md](docs/BUILD_AND_FLASH.md) for how to install
 arduino-cli, compile the firmware, and flash it to the board.
+
+## Measuring the Phase Difference Between Two 1PPS Signals
+
+See [docs/MEASURING_1PPS_PHASE.md](docs/MEASURING_1PPS_PHASE.md) for how to
+read TICC results on a host computer and measure the phase difference between
+two 1PPS signals.
