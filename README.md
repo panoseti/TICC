@@ -49,3 +49,8 @@ several bug fixes.  Highlights:
 * Changes to support multi-TICC
 * Other cleanup
 
+
+## Building and Flashing
+
+See [docs/BUILD_AND_FLASH.md](docs/BUILD_AND_FLASH.md) for how to install
+arduino-cli, compile the firmware, and flash it to the board.
